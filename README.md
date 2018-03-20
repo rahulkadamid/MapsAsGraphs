@@ -8,3 +8,5 @@ MapsAsGraphs is a Google Map application which can output the optimal route betw
 
 **Phase 2:**  Route planning using algorithms
 
+## Demo:
+![](images/video.gif)
